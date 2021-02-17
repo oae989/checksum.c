@@ -1,0 +1,12 @@
+Script started on Wed 17 Feb 2021 12:38:45 AM PST
+]0;oae989@ssh: ~/comp122/checksum.c[01;32moae989@ssh[00m:[01;34m~/comp122/checksum.c[00m$ exit[2Plsscript checksum.typescriptcat 81.txt | ints2bytes | checksum[1@229[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C156[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcat 156.txt | ints2bytes | checksum
+Stored Checksum: 156, Computed Checksum: 156
+]0;oae989@ssh: ~/comp122/checksum.c[01;32moae989@ssh[00m:[01;34m~/comp122/checksum.c[00m$ cat 156.txt | ints2bytes | checksum[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K[2Plsscript checksum.typescriptcat 81.txt | ints2bytes | checksum[1@229[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Stored Checksum: 229, Computed Checksum: 132
+Error Detected!
+]0;oae989@ssh: ~/comp122/checksum.c[01;32moae989@ssh[00m:[01;34m~/comp122/checksum.c[00m$ cat 229.txt | ints2bytes | checksum156[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[K[2Plsscript checksum.typescriptcat 81.txt | ints2bytes | checksum[1@229[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P81[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Stored Checksum: 81, Computed Checksum: 81
+]0;oae989@ssh: ~/comp122/checksum.c[01;32moae989@ssh[00m:[01;34m~/comp122/checksum.c[00m$ exit
+exit
+
+Script done on Wed 17 Feb 2021 12:39:17 AM PST
