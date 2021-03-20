@@ -1,6 +1,6 @@
 /********************************/
 /* Program Name:  checksum      */
-/* Author: Ivan Solares         */
+/* Author:          */
 /* Date:                        */
 /********************************/
 /* Description:                 */
