@@ -1,12 +1,3 @@
-/********************************/
-/* Program Name:  checksum      */
-/* Author:          */
-/* Date:                        */
-/********************************/
-/* Description:                 */
-/* Validation Checks:           */
-/* Enhancements:                */
-/********************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
